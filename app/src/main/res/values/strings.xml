@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="context">this</string>
+</resources>
